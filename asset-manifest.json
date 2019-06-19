@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/psrepositorio/psapp/static/js/main.40ab7779.chunk.js",
-    "main.js.map": "/psrepositorio/psapp/static/js/main.40ab7779.chunk.js.map",
-    "runtime~main.js": "/psrepositorio/psapp/static/js/runtime~main.ae8e9741.js",
-    "runtime~main.js.map": "/psrepositorio/psapp/static/js/runtime~main.ae8e9741.js.map",
-    "static/css/2.5cd360b2.chunk.css": "/psrepositorio/psapp/static/css/2.5cd360b2.chunk.css",
-    "static/js/2.24c129f4.chunk.js": "/psrepositorio/psapp/static/js/2.24c129f4.chunk.js",
-    "static/js/2.24c129f4.chunk.js.map": "/psrepositorio/psapp/static/js/2.24c129f4.chunk.js.map",
-    "index.html": "/psrepositorio/psapp/index.html",
-    "precache-manifest.b9b961dc7706889d2bcdb3a8c34a8d08.js": "/psrepositorio/psapp/precache-manifest.b9b961dc7706889d2bcdb3a8c34a8d08.js",
-    "service-worker.js": "/psrepositorio/psapp/service-worker.js",
-    "static/css/2.5cd360b2.chunk.css.map": "/psrepositorio/psapp/static/css/2.5cd360b2.chunk.css.map",
-    "static/media/prod1.jpg": "/psrepositorio/psapp/static/media/prod1.0e4376a6.jpg",
-    "static/media/index.css": "/psrepositorio/psapp/static/media/roboto-latin-900italic.bc833e72.woff"
+    "main.js": "/psapp/static/js/main.133225b2.chunk.js",
+    "main.js.map": "/psapp/static/js/main.133225b2.chunk.js.map",
+    "runtime~main.js": "/psapp/static/js/runtime~main.ebaadd5a.js",
+    "runtime~main.js.map": "/psapp/static/js/runtime~main.ebaadd5a.js.map",
+    "static/css/2.7ae7547c.chunk.css": "/psapp/static/css/2.7ae7547c.chunk.css",
+    "static/js/2.24c129f4.chunk.js": "/psapp/static/js/2.24c129f4.chunk.js",
+    "static/js/2.24c129f4.chunk.js.map": "/psapp/static/js/2.24c129f4.chunk.js.map",
+    "index.html": "/psapp/index.html",
+    "precache-manifest.3cbe5211f558c8b1de206a5b5e176d8f.js": "/psapp/precache-manifest.3cbe5211f558c8b1de206a5b5e176d8f.js",
+    "service-worker.js": "/psapp/service-worker.js",
+    "static/css/2.7ae7547c.chunk.css.map": "/psapp/static/css/2.7ae7547c.chunk.css.map",
+    "static/media/prod1.jpg": "/psapp/static/media/prod1.0e4376a6.jpg",
+    "static/media/index.css": "/psapp/static/media/roboto-latin-900italic.bc833e72.woff"
   }
 }
