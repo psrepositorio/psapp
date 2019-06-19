@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.05eb9a79.chunk.js",
-    "main.js.map": "/static/js/main.05eb9a79.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.94155858.chunk.css": "/static/css/2.94155858.chunk.css",
-    "static/js/2.24c129f4.chunk.js": "/static/js/2.24c129f4.chunk.js",
-    "static/js/2.24c129f4.chunk.js.map": "/static/js/2.24c129f4.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.eee9e77b564f28dba7a9c95ece5791c7.js": "/precache-manifest.eee9e77b564f28dba7a9c95ece5791c7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.94155858.chunk.css.map": "/static/css/2.94155858.chunk.css.map",
-    "static/media/prod1.jpg": "/static/media/prod1.0e4376a6.jpg",
-    "static/media/index.css": "/static/media/roboto-latin-900italic.bc833e72.woff"
+    "main.js": "/psrepositorio/psapp/static/js/main.40ab7779.chunk.js",
+    "main.js.map": "/psrepositorio/psapp/static/js/main.40ab7779.chunk.js.map",
+    "runtime~main.js": "/psrepositorio/psapp/static/js/runtime~main.ae8e9741.js",
+    "runtime~main.js.map": "/psrepositorio/psapp/static/js/runtime~main.ae8e9741.js.map",
+    "static/css/2.5cd360b2.chunk.css": "/psrepositorio/psapp/static/css/2.5cd360b2.chunk.css",
+    "static/js/2.24c129f4.chunk.js": "/psrepositorio/psapp/static/js/2.24c129f4.chunk.js",
+    "static/js/2.24c129f4.chunk.js.map": "/psrepositorio/psapp/static/js/2.24c129f4.chunk.js.map",
+    "index.html": "/psrepositorio/psapp/index.html",
+    "precache-manifest.b9b961dc7706889d2bcdb3a8c34a8d08.js": "/psrepositorio/psapp/precache-manifest.b9b961dc7706889d2bcdb3a8c34a8d08.js",
+    "service-worker.js": "/psrepositorio/psapp/service-worker.js",
+    "static/css/2.5cd360b2.chunk.css.map": "/psrepositorio/psapp/static/css/2.5cd360b2.chunk.css.map",
+    "static/media/prod1.jpg": "/psrepositorio/psapp/static/media/prod1.0e4376a6.jpg",
+    "static/media/index.css": "/psrepositorio/psapp/static/media/roboto-latin-900italic.bc833e72.woff"
   }
 }
